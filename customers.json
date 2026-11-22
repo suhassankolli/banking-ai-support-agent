@@ -1,0 +1,502 @@
+[
+  {
+    "customer_id": "CUST0001",
+    "name": "Synthetic Customer 1",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0002",
+    "name": "Synthetic Customer 2",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0003",
+    "name": "Synthetic Customer 3",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0004",
+    "name": "Synthetic Customer 4",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0005",
+    "name": "Synthetic Customer 5",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0006",
+    "name": "Synthetic Customer 6",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0007",
+    "name": "Synthetic Customer 7",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0008",
+    "name": "Synthetic Customer 8",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0009",
+    "name": "Synthetic Customer 9",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0010",
+    "name": "Synthetic Customer 10",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0011",
+    "name": "Synthetic Customer 11",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0012",
+    "name": "Synthetic Customer 12",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0013",
+    "name": "Synthetic Customer 13",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0014",
+    "name": "Synthetic Customer 14",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0015",
+    "name": "Synthetic Customer 15",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0016",
+    "name": "Synthetic Customer 16",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0017",
+    "name": "Synthetic Customer 17",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0018",
+    "name": "Synthetic Customer 18",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0019",
+    "name": "Synthetic Customer 19",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0020",
+    "name": "Synthetic Customer 20",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0021",
+    "name": "Synthetic Customer 21",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0022",
+    "name": "Synthetic Customer 22",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0023",
+    "name": "Synthetic Customer 23",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0024",
+    "name": "Synthetic Customer 24",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0025",
+    "name": "Synthetic Customer 25",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0026",
+    "name": "Synthetic Customer 26",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0027",
+    "name": "Synthetic Customer 27",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0028",
+    "name": "Synthetic Customer 28",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0029",
+    "name": "Synthetic Customer 29",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0030",
+    "name": "Synthetic Customer 30",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0031",
+    "name": "Synthetic Customer 31",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0032",
+    "name": "Synthetic Customer 32",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0033",
+    "name": "Synthetic Customer 33",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0034",
+    "name": "Synthetic Customer 34",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0035",
+    "name": "Synthetic Customer 35",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0036",
+    "name": "Synthetic Customer 36",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0037",
+    "name": "Synthetic Customer 37",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0038",
+    "name": "Synthetic Customer 38",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0039",
+    "name": "Synthetic Customer 39",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0040",
+    "name": "Synthetic Customer 40",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0041",
+    "name": "Synthetic Customer 41",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0042",
+    "name": "Synthetic Customer 42",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0043",
+    "name": "Synthetic Customer 43",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0044",
+    "name": "Synthetic Customer 44",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0045",
+    "name": "Synthetic Customer 45",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0046",
+    "name": "Synthetic Customer 46",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0047",
+    "name": "Synthetic Customer 47",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0048",
+    "name": "Synthetic Customer 48",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0049",
+    "name": "Synthetic Customer 49",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0050",
+    "name": "Synthetic Customer 50",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0051",
+    "name": "Synthetic Customer 51",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0052",
+    "name": "Synthetic Customer 52",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0053",
+    "name": "Synthetic Customer 53",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0054",
+    "name": "Synthetic Customer 54",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0055",
+    "name": "Synthetic Customer 55",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0056",
+    "name": "Synthetic Customer 56",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0057",
+    "name": "Synthetic Customer 57",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0058",
+    "name": "Synthetic Customer 58",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0059",
+    "name": "Synthetic Customer 59",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0060",
+    "name": "Synthetic Customer 60",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0061",
+    "name": "Synthetic Customer 61",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0062",
+    "name": "Synthetic Customer 62",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0063",
+    "name": "Synthetic Customer 63",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0064",
+    "name": "Synthetic Customer 64",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0065",
+    "name": "Synthetic Customer 65",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0066",
+    "name": "Synthetic Customer 66",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0067",
+    "name": "Synthetic Customer 67",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0068",
+    "name": "Synthetic Customer 68",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0069",
+    "name": "Synthetic Customer 69",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0070",
+    "name": "Synthetic Customer 70",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0071",
+    "name": "Synthetic Customer 71",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0072",
+    "name": "Synthetic Customer 72",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0073",
+    "name": "Synthetic Customer 73",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0074",
+    "name": "Synthetic Customer 74",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0075",
+    "name": "Synthetic Customer 75",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0076",
+    "name": "Synthetic Customer 76",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0077",
+    "name": "Synthetic Customer 77",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0078",
+    "name": "Synthetic Customer 78",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0079",
+    "name": "Synthetic Customer 79",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0080",
+    "name": "Synthetic Customer 80",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0081",
+    "name": "Synthetic Customer 81",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0082",
+    "name": "Synthetic Customer 82",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0083",
+    "name": "Synthetic Customer 83",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0084",
+    "name": "Synthetic Customer 84",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0085",
+    "name": "Synthetic Customer 85",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0086",
+    "name": "Synthetic Customer 86",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0087",
+    "name": "Synthetic Customer 87",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0088",
+    "name": "Synthetic Customer 88",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0089",
+    "name": "Synthetic Customer 89",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0090",
+    "name": "Synthetic Customer 90",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0091",
+    "name": "Synthetic Customer 91",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0092",
+    "name": "Synthetic Customer 92",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0093",
+    "name": "Synthetic Customer 93",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0094",
+    "name": "Synthetic Customer 94",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0095",
+    "name": "Synthetic Customer 95",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0096",
+    "name": "Synthetic Customer 96",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0097",
+    "name": "Synthetic Customer 97",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0098",
+    "name": "Synthetic Customer 98",
+    "tier": "premium"
+  },
+  {
+    "customer_id": "CUST0099",
+    "name": "Synthetic Customer 99",
+    "tier": "standard"
+  },
+  {
+    "customer_id": "CUST0100",
+    "name": "Synthetic Customer 100",
+    "tier": "premium"
+  }
+]

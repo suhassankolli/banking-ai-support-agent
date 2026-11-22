@@ -1,0 +1,502 @@
+[
+  {
+    "account_id": "ACC0001",
+    "customer_id": "CUST0001",
+    "balance": 16346.24
+  },
+  {
+    "account_id": "ACC0002",
+    "customer_id": "CUST0002",
+    "balance": 13128.53
+  },
+  {
+    "account_id": "ACC0003",
+    "customer_id": "CUST0003",
+    "balance": 9166.01
+  },
+  {
+    "account_id": "ACC0004",
+    "customer_id": "CUST0004",
+    "balance": 24354.78
+  },
+  {
+    "account_id": "ACC0005",
+    "customer_id": "CUST0005",
+    "balance": 2915.01
+  },
+  {
+    "account_id": "ACC0006",
+    "customer_id": "CUST0006",
+    "balance": 15619.14
+  },
+  {
+    "account_id": "ACC0007",
+    "customer_id": "CUST0007",
+    "balance": 6497.15
+  },
+  {
+    "account_id": "ACC0008",
+    "customer_id": "CUST0008",
+    "balance": 12012.44
+  },
+  {
+    "account_id": "ACC0009",
+    "customer_id": "CUST0009",
+    "balance": 3181.83
+  },
+  {
+    "account_id": "ACC0010",
+    "customer_id": "CUST0010",
+    "balance": 21658.71
+  },
+  {
+    "account_id": "ACC0011",
+    "customer_id": "CUST0011",
+    "balance": 22020.47
+  },
+  {
+    "account_id": "ACC0012",
+    "customer_id": "CUST0012",
+    "balance": 13945.1
+  },
+  {
+    "account_id": "ACC0013",
+    "customer_id": "CUST0013",
+    "balance": 22072.23
+  },
+  {
+    "account_id": "ACC0014",
+    "customer_id": "CUST0014",
+    "balance": 21938.39
+  },
+  {
+    "account_id": "ACC0015",
+    "customer_id": "CUST0015",
+    "balance": 3904.1
+  },
+  {
+    "account_id": "ACC0016",
+    "customer_id": "CUST0016",
+    "balance": 2700.58
+  },
+  {
+    "account_id": "ACC0017",
+    "customer_id": "CUST0017",
+    "balance": 3326.34
+  },
+  {
+    "account_id": "ACC0018",
+    "customer_id": "CUST0018",
+    "balance": 6967.75
+  },
+  {
+    "account_id": "ACC0019",
+    "customer_id": "CUST0019",
+    "balance": 24982.78
+  },
+  {
+    "account_id": "ACC0020",
+    "customer_id": "CUST0020",
+    "balance": 24647.41
+  },
+  {
+    "account_id": "ACC0021",
+    "customer_id": "CUST0021",
+    "balance": 24249.02
+  },
+  {
+    "account_id": "ACC0022",
+    "customer_id": "CUST0022",
+    "balance": 5459.8
+  },
+  {
+    "account_id": "ACC0023",
+    "customer_id": "CUST0023",
+    "balance": 13546.79
+  },
+  {
+    "account_id": "ACC0024",
+    "customer_id": "CUST0024",
+    "balance": 11998.85
+  },
+  {
+    "account_id": "ACC0025",
+    "customer_id": "CUST0025",
+    "balance": 21009.88
+  },
+  {
+    "account_id": "ACC0026",
+    "customer_id": "CUST0026",
+    "balance": 3770.29
+  },
+  {
+    "account_id": "ACC0027",
+    "customer_id": "CUST0027",
+    "balance": 21306.49
+  },
+  {
+    "account_id": "ACC0028",
+    "customer_id": "CUST0028",
+    "balance": 1232.07
+  },
+  {
+    "account_id": "ACC0029",
+    "customer_id": "CUST0029",
+    "balance": 20106.94
+  },
+  {
+    "account_id": "ACC0030",
+    "customer_id": "CUST0030",
+    "balance": 23317.14
+  },
+  {
+    "account_id": "ACC0031",
+    "customer_id": "CUST0031",
+    "balance": 20457.98
+  },
+  {
+    "account_id": "ACC0032",
+    "customer_id": "CUST0032",
+    "balance": 6462.29
+  },
+  {
+    "account_id": "ACC0033",
+    "customer_id": "CUST0033",
+    "balance": 23541.69
+  },
+  {
+    "account_id": "ACC0034",
+    "customer_id": "CUST0034",
+    "balance": 13274.15
+  },
+  {
+    "account_id": "ACC0035",
+    "customer_id": "CUST0035",
+    "balance": 9741.32
+  },
+  {
+    "account_id": "ACC0036",
+    "customer_id": "CUST0036",
+    "balance": 8095.72
+  },
+  {
+    "account_id": "ACC0037",
+    "customer_id": "CUST0037",
+    "balance": 11317.32
+  },
+  {
+    "account_id": "ACC0038",
+    "customer_id": "CUST0038",
+    "balance": 13370.85
+  },
+  {
+    "account_id": "ACC0039",
+    "customer_id": "CUST0039",
+    "balance": 21393.7
+  },
+  {
+    "account_id": "ACC0040",
+    "customer_id": "CUST0040",
+    "balance": 19481.11
+  },
+  {
+    "account_id": "ACC0041",
+    "customer_id": "CUST0041",
+    "balance": 17021.87
+  },
+  {
+    "account_id": "ACC0042",
+    "customer_id": "CUST0042",
+    "balance": 18847.73
+  },
+  {
+    "account_id": "ACC0043",
+    "customer_id": "CUST0043",
+    "balance": 7521.16
+  },
+  {
+    "account_id": "ACC0044",
+    "customer_id": "CUST0044",
+    "balance": 5964.03
+  },
+  {
+    "account_id": "ACC0045",
+    "customer_id": "CUST0045",
+    "balance": 21482.75
+  },
+  {
+    "account_id": "ACC0046",
+    "customer_id": "CUST0046",
+    "balance": 17299.41
+  },
+  {
+    "account_id": "ACC0047",
+    "customer_id": "CUST0047",
+    "balance": 4256.79
+  },
+  {
+    "account_id": "ACC0048",
+    "customer_id": "CUST0048",
+    "balance": 2965.75
+  },
+  {
+    "account_id": "ACC0049",
+    "customer_id": "CUST0049",
+    "balance": 1489.12
+  },
+  {
+    "account_id": "ACC0050",
+    "customer_id": "CUST0050",
+    "balance": 3748.79
+  },
+  {
+    "account_id": "ACC0051",
+    "customer_id": "CUST0051",
+    "balance": 17574.75
+  },
+  {
+    "account_id": "ACC0052",
+    "customer_id": "CUST0052",
+    "balance": 9893.7
+  },
+  {
+    "account_id": "ACC0053",
+    "customer_id": "CUST0053",
+    "balance": 18611.09
+  },
+  {
+    "account_id": "ACC0054",
+    "customer_id": "CUST0054",
+    "balance": 3079.91
+  },
+  {
+    "account_id": "ACC0055",
+    "customer_id": "CUST0055",
+    "balance": 9168.13
+  },
+  {
+    "account_id": "ACC0056",
+    "customer_id": "CUST0056",
+    "balance": 16501.67
+  },
+  {
+    "account_id": "ACC0057",
+    "customer_id": "CUST0057",
+    "balance": 18902.45
+  },
+  {
+    "account_id": "ACC0058",
+    "customer_id": "CUST0058",
+    "balance": 6193.23
+  },
+  {
+    "account_id": "ACC0059",
+    "customer_id": "CUST0059",
+    "balance": 13819.24
+  },
+  {
+    "account_id": "ACC0060",
+    "customer_id": "CUST0060",
+    "balance": 11571.25
+  },
+  {
+    "account_id": "ACC0061",
+    "customer_id": "CUST0061",
+    "balance": 14508.15
+  },
+  {
+    "account_id": "ACC0062",
+    "customer_id": "CUST0062",
+    "balance": 21644.0
+  },
+  {
+    "account_id": "ACC0063",
+    "customer_id": "CUST0063",
+    "balance": 5171.53
+  },
+  {
+    "account_id": "ACC0064",
+    "customer_id": "CUST0064",
+    "balance": 23173.87
+  },
+  {
+    "account_id": "ACC0065",
+    "customer_id": "CUST0065",
+    "balance": 4982.15
+  },
+  {
+    "account_id": "ACC0066",
+    "customer_id": "CUST0066",
+    "balance": 2930.6
+  },
+  {
+    "account_id": "ACC0067",
+    "customer_id": "CUST0067",
+    "balance": 17134.76
+  },
+  {
+    "account_id": "ACC0068",
+    "customer_id": "CUST0068",
+    "balance": 3189.82
+  },
+  {
+    "account_id": "ACC0069",
+    "customer_id": "CUST0069",
+    "balance": 11915.82
+  },
+  {
+    "account_id": "ACC0070",
+    "customer_id": "CUST0070",
+    "balance": 9682.7
+  },
+  {
+    "account_id": "ACC0071",
+    "customer_id": "CUST0071",
+    "balance": 15612.92
+  },
+  {
+    "account_id": "ACC0072",
+    "customer_id": "CUST0072",
+    "balance": 12961.01
+  },
+  {
+    "account_id": "ACC0073",
+    "customer_id": "CUST0073",
+    "balance": 22103.83
+  },
+  {
+    "account_id": "ACC0074",
+    "customer_id": "CUST0074",
+    "balance": 24973.66
+  },
+  {
+    "account_id": "ACC0075",
+    "customer_id": "CUST0075",
+    "balance": 14723.14
+  },
+  {
+    "account_id": "ACC0076",
+    "customer_id": "CUST0076",
+    "balance": 12887.89
+  },
+  {
+    "account_id": "ACC0077",
+    "customer_id": "CUST0077",
+    "balance": 16714.75
+  },
+  {
+    "account_id": "ACC0078",
+    "customer_id": "CUST0078",
+    "balance": 8599.87
+  },
+  {
+    "account_id": "ACC0079",
+    "customer_id": "CUST0079",
+    "balance": 3362.64
+  },
+  {
+    "account_id": "ACC0080",
+    "customer_id": "CUST0080",
+    "balance": 13747.99
+  },
+  {
+    "account_id": "ACC0081",
+    "customer_id": "CUST0081",
+    "balance": 7095.46
+  },
+  {
+    "account_id": "ACC0082",
+    "customer_id": "CUST0082",
+    "balance": 11183.41
+  },
+  {
+    "account_id": "ACC0083",
+    "customer_id": "CUST0083",
+    "balance": 24470.67
+  },
+  {
+    "account_id": "ACC0084",
+    "customer_id": "CUST0084",
+    "balance": 20172.64
+  },
+  {
+    "account_id": "ACC0085",
+    "customer_id": "CUST0085",
+    "balance": 16512.17
+  },
+  {
+    "account_id": "ACC0086",
+    "customer_id": "CUST0086",
+    "balance": 24315.75
+  },
+  {
+    "account_id": "ACC0087",
+    "customer_id": "CUST0087",
+    "balance": 24109.44
+  },
+  {
+    "account_id": "ACC0088",
+    "customer_id": "CUST0088",
+    "balance": 13877.74
+  },
+  {
+    "account_id": "ACC0089",
+    "customer_id": "CUST0089",
+    "balance": 14473.78
+  },
+  {
+    "account_id": "ACC0090",
+    "customer_id": "CUST0090",
+    "balance": 12822.99
+  },
+  {
+    "account_id": "ACC0091",
+    "customer_id": "CUST0091",
+    "balance": 10957.23
+  },
+  {
+    "account_id": "ACC0092",
+    "customer_id": "CUST0092",
+    "balance": 17456.33
+  },
+  {
+    "account_id": "ACC0093",
+    "customer_id": "CUST0093",
+    "balance": 15331.5
+  },
+  {
+    "account_id": "ACC0094",
+    "customer_id": "CUST0094",
+    "balance": 8885.43
+  },
+  {
+    "account_id": "ACC0095",
+    "customer_id": "CUST0095",
+    "balance": 1356.65
+  },
+  {
+    "account_id": "ACC0096",
+    "customer_id": "CUST0096",
+    "balance": 13317.71
+  },
+  {
+    "account_id": "ACC0097",
+    "customer_id": "CUST0097",
+    "balance": 12495.57
+  },
+  {
+    "account_id": "ACC0098",
+    "customer_id": "CUST0098",
+    "balance": 14160.55
+  },
+  {
+    "account_id": "ACC0099",
+    "customer_id": "CUST0099",
+    "balance": 18300.16
+  },
+  {
+    "account_id": "ACC0100",
+    "customer_id": "CUST0100",
+    "balance": 4663.33
+  }
+]
